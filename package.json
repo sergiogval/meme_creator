@@ -1,0 +1,26 @@
+{
+  "name": "meme_creator",
+  "version": "1.0.0",
+  "description": "a creator of memes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiogval/meme_creator.git"
+  },
+  "keywords": [
+    "meme",
+    "creator",
+    "javaScript",
+    "html",
+    "css"
+  ],
+  "author": "Sergio Valadez Rivera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiogval/meme_creator/issues"
+  },
+  "homepage": "https://github.com/sergiogval/meme_creator#readme"
+}
